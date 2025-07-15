@@ -1,0 +1,1 @@
+The translator from [Downward 24.06](https://github.com/aibasel/downward/releases/tag/release-24.06.1) with minor changes in `translate.py` which has an option to dump the sas content stdout instead of to file.
