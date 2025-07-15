@@ -13,8 +13,8 @@ To get instructions on how to use PDDL2DyPDL from the command line, run
 
     python3 -m pddl2dypdl -h
 
-# Reference
-If you use or find this tool useful in your research, please cite
+## Reference
+If you find this tool useful in your research or would like to know more about it, please reference
 ```
 @inproceedings{
   title        = {STRIPS2DyPDL: A Translator from Automated Planning Problems into Domain-Independent Dynamic Programming Problems},
